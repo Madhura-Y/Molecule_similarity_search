@@ -1,0 +1,4 @@
+flask
+rdkit
+numpy
+h5py
